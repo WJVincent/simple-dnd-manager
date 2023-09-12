@@ -1,0 +1,1 @@
+-- add all tables to db

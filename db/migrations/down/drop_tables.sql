@@ -1,0 +1,1 @@
+-- delete all tables from db
