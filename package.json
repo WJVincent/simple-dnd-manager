@@ -11,7 +11,7 @@
     "dnd"
   ],
   "author": "William Vincent",
-  "license": "ISC",
+  "license": "gpl-3.0",
   "dependencies": {
     "better-sqlite3": "^8.6.0"
   },
