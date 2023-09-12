@@ -1,0 +1,22 @@
+{
+  "name": "dnd-website",
+  "version": "1.0.0",
+  "description": "A website to store character sheets, inventory, and level up form",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "game",
+    "dnd"
+  ],
+  "author": "William Vincent",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
